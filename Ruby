@@ -22,3 +22,10 @@ git push -u origin master
 git status
 
 
+
+GitHub
+//Копирование репезитория
+* git clone https://github.com/Axiks/Samble.git
+* git clone https://github.com/Axiks/Samble
+
+* git status
